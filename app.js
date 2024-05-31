@@ -16,3 +16,8 @@ function hide(){
 image.addEventListener('click', show);
 close.addEventListener('click', hide);
 
+const addCourse =(course) =>{
+    return {
+        message: "New course added sucessfully :))" ,
+    };
+};
