@@ -15,3 +15,4 @@ function hide(){
 
 image.addEventListener('click', show);
 close.addEventListener('click', hide);
+
